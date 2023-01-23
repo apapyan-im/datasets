@@ -1,2 +1,2 @@
-[lfs]
-	url = https://lfs.instigatemobile.com/repository/ai_projects
+[remote "origin"]
+        lfsurl = https://lfs.instigatemobile.com/repository/ai_projects/info/lfs
